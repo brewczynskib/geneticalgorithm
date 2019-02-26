@@ -3,7 +3,7 @@ Shooters evolves then get better accuracy.
 
 ## Getting Started
 
-  When you start algorithm on your computer you should see this on your browser.
+  When you start algorithm you should see this on your browser.
   
 ![](genetic-shooter.gif)
 
