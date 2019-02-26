@@ -15,7 +15,6 @@ Shooters evolves then get better accuracy.
 ### Installing
 
 In this project I used p5.js library. You can download it from https://p5js.org/download/.
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
