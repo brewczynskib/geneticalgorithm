@@ -1,21 +1,16 @@
-# GeneticAlgorithm-js p5.js
+# genetic-algorithm
 Shooters evolves then get better accuracy.
 
 ## Getting Started
 
-When you start algorithm on your computer you should see this on your browser.
+  When you start algorithm on your computer you should see this on your browser.
+  
 ![](genetic-shooter.gif)
 
-After few minutes..
+ After few minutes
+ 
 ![](genetic-shooter2.gif)
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
 
 ### Installing
 
