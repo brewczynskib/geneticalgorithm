@@ -7,11 +7,13 @@ Shooters evolves then get better accuracy.
   
 ![](genetic-shooter.gif)
 
- After few minutes... As you can see (History left side of the browser) target changed position (n) times what means that we achieved target (n) times. 
- #achieved target means that 50% of population reached the goal - u can changed it in source code.
+ After few minutes... 
  
 ![](genetic-shooter2.gif)
 
+As you can see (History left side of the browser) target changed position (n) times what means that we achieved target (n) times. 
+ #achieved target means that 50% of population reached the goal - u can changed it in source code.
+ 
 
 ### Installing
 
