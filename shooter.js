@@ -10,7 +10,7 @@ let score;
 let win;
 let generation;
 let maximum; // html
-let max; // how many time target reached
+let max; // how much time target reached
 let targetPositions;
 let targetPositionsNumber;
 let htmlHistory;
